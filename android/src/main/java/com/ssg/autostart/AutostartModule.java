@@ -1,4 +1,3 @@
-
 package com.ssg.autostart;
 
 import android.content.ComponentName;
