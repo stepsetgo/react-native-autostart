@@ -22,7 +22,7 @@
     }
   ],
   "author": "StepSetGo",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stepsetgo/react-native-autostart.git"
