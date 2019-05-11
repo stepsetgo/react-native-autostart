@@ -1,25 +1,34 @@
 {
   "name": "react-native-autostart",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Autostart for custom skin androids",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "stepsetgo",
+    "pepkit-media-pvt"
   ],
   "peerDependencies": {
     "react-native": "^0.57.0"
   },
-  "author": "Nilava",
+  "contributors": [
+    {
+      "name": "Nilava",
+      "email": "nilava@ownlab.in",
+      "url": "https://www.ownlab.in"
+    }
+  ],
+  "author": "StepSetGo",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nilava/react-native-autostart.git"
+    "url": "git+https://github.com/stepsetgo/react-native-autostart.git"
   },
   "bugs": {
-    "url": "https://github.com/nilava/react-native-autostart/issues"
+    "url": "https://github.com/stepsetgo/react-native-autostart/issues"
   },
-  "homepage": "https://github.com/nilava/react-native-autostart#readme"
+  "homepage": "https://github.com/stepsetgo/react-native-autostart#readme"
 }
